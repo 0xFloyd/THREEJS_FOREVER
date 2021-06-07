@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  overscroll-behavior: none;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: hidden;
+}
